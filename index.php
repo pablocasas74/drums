@@ -1,5 +1,5 @@
 <?
 echo "hola chau";
 
-echo "boton de prueba";
+echo "boton de prueba 2";
 ?>
