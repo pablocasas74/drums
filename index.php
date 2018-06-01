@@ -1,3 +1,3 @@
 <?
-echo "hola chau";
+echo "hola chau 2";
 ?>
